@@ -1,0 +1,63 @@
+@media (max-width: 739px) {
+    html {
+        width: 740px;
+    }
+    .nav-logo {
+        display: none;
+    }
+    .ngan_cach {
+        display: none;
+    }
+    .ten_khoa_hoc {
+        width: 162px;
+        margin-left: 15px;
+    }
+    .nav-list {
+        margin-right: 12px;
+    }
+    .content  {
+        display: block;
+    }
+    .ly_thuyet,
+    .huong_dan,
+    .list_khoa_hoc {
+        width: 100%;
+    }
+    .list_khoa_hoc {
+        position: fixed;
+        top: 50px;
+        z-index: 2;
+        height: 100%;
+        background: var(--white-color);
+    }
+    .btn_hien_tab {
+        position: fixed;
+        top: 50px;
+        z-index: 2;
+    }
+    .btn_hien_ra  {
+        color: var(--text-color);
+    }
+    .thong_tin_ca_nhan,
+    .lien_he {
+        width: 50%;
+    }
+    .nguon {
+        display: none;
+    }
+    .thong_tin_ca_nhan {
+        margin-top: 7px;
+    }
+    .note_mobile {
+        color: red;
+        font-style: italic;
+    }
+    .tab_huong_dan  {
+        height: 107%;
+        margin-bottom: 20px;
+        margin-top: 30px;
+    }
+    .bai_tap span {
+        margin-bottom: 50px !important;
+    }
+}
