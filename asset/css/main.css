@@ -177,7 +177,7 @@ header {
 }
 /*----------------------hướng dẫn---------------------*/
 .huong_dan {
-    width: 70%;
+    width: 50%;
     position: relative;
 }
 .video {
@@ -221,7 +221,7 @@ header {
 }
 /*---------------------list khóa học--------------------  */
 .list_khoa_hoc {
-    width: 30%;
+    width: 20%;
     animation: fadeIn 1.5s;
 }
 /* header of list khóa học */
@@ -279,7 +279,7 @@ button {
     float: right;
     font-size: 3rem;
     padding: 16px;
-    color: var(--black-color);
+    color: var(--white-color);
     opacity: 0.5;
 
 }
@@ -294,8 +294,7 @@ button {
     width: 45%;
 }
 .content_huong_dan_thu_gon {
-    width: 70%;
-    margin: 0 14%;
+    width: 55%;
 }
 .content_bai_hoc_thu_gon {
     width: 10%;
@@ -361,7 +360,7 @@ button {
     font-size: 1.7rem;
     font-style: italic;
     margin-left: 21px;
-    color: #00000094;
+    color: rgb(61 60 60);
     padding-top: 10px;
 }
 .thoi_luong_video {
@@ -369,7 +368,7 @@ button {
     padding: 3px 0;
     display: block;
     font-size: 1.2rem;
-    color: #00000094;
+    color: rgb(61 60 60);
 }
 .thoi_luong_video i {
     color: rgb(167 162 162);
