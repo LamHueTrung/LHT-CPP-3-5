@@ -22,6 +22,7 @@
     .huong_dan,
     .list_khoa_hoc {
         width: 100%;
+        margin: 0;
     }
     .list_khoa_hoc {
         position: fixed;
