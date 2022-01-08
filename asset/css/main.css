@@ -177,7 +177,7 @@ header {
 }
 /*----------------------hướng dẫn---------------------*/
 .huong_dan {
-    width: 50%;
+    width: 70%;
     position: relative;
 }
 .video {
@@ -221,7 +221,7 @@ header {
 }
 /*---------------------list khóa học--------------------  */
 .list_khoa_hoc {
-    width: 20%;
+    width: 30%;
     animation: fadeIn 1.5s;
 }
 /* header of list khóa học */
